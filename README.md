@@ -1,6 +1,5 @@
 # :waxing_crescent_moon: Is Darkmode?
 
-![Build](https://github.com/mcnaveen/is-darkmode/workflows/Build/badge.svg)
 ![Downloads this Week](https://img.shields.io/npm/dw/is-darkmode)
 ![Bundle Size](https://img.shields.io/bundlephobia/min/is-darkmode)
 ![Version](https://img.shields.io/npm/v/is-darkmode)
