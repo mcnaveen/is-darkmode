@@ -4,7 +4,7 @@
 ![Bundle Size](https://img.shields.io/bundlephobia/min/is-darkmode)
 ![Version](https://img.shields.io/npm/v/is-darkmode)
 
-![Numify](./image/cover.png)
+![is-darkmode](./image/cover.png)
 
 :unicorn: A Simple utility to find whether darkmode is enabled.
 
