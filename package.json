@@ -1,0 +1,28 @@
+{
+  "name": "is-darkmode",
+  "version": "0.0.1",
+  "description": "A simple utility to find whether darkmode is enabled",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcnaveen/is-darkmode.git"
+  },
+  "author": "mcnaveen <me@mcnaveen.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcnaveen/is-darkmode/issues"
+  },
+  "homepage": "https://github.com/mcnaveen/is-darkmode#readme",
+  "keywords": [
+    "darkmode",
+    "is-darkmode",
+    "color-scheme",
+    "prefers-color-scheme",
+    "display-theme",
+    "lightmode",
+    "is-lightmode"
+  ]
+}
